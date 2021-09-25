@@ -31,8 +31,10 @@
 >개발 기간: 2021.8.14 ~ 2021.8.18  
 >  
 >기술 스택: Javascript, Python
+>
 >Front-end : JQuery, BootStrap
->Back-end : django, pandas  
+>Back-end : django, pandas
+>
 >프로젝트 주소 추가
 
 ---
