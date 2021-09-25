@@ -38,7 +38,7 @@
 >Back-end : django, pandas
 >
 >
->[프로젝트 상세 설명]https://github.com/Woonggss/Hangeul_Font_Map_for_portfolio
+>[프로젝트 상세 설명](https://github.com/Woonggss/Hangeul_Font_Map_for_portfolio)
 
 ---
 
