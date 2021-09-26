@@ -49,7 +49,7 @@
 >
 >기술적 분석 세션 자료, 투자 전략 백테스팅, 퀀트 전략(1월 효과)에 근거한 stockpicking
 >
->저장소 주소 추가
+>[저장소 주소 추가](https://github.com/Woonggss/Quant)
 
 ## :pushpin: TIL(Today I Learned) Repository
 > 학습한 내용을 정리하는 저장소입니다.
