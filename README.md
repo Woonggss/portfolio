@@ -20,10 +20,13 @@
 >개발 기간: 2020.5.1 ~ 2020.7.6
 >  
 >기술 스택: Python
->(코드들 뜯어보고 추가하기)  
+>* 데이터 수집 : beautifulsoup, selenium, fake_useragent, pyautogui
+>* 데이터 전처리 : cv2, PIL, matplotlib, keras
+>* 모델 구축 : keras
+>* 휠 유사도 판별 : sklearn(scikit-learn), skimage(scikit-image) 
 >  
 >  
->프로젝트 주소 추가
+>[프로젝트 상세 설명](https://github.com/Woonggss/2020-deep-learning-project)
 
 ---
 
