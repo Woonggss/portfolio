@@ -37,8 +37,8 @@
 >  
 >기술 스택: Javascript, Python
 >
->Front-end : JQuery, BootStrap
->Back-end : django, pandas
+>* Front-end : JQuery, BootStrap
+>* Back-end : django, pandas
 >
 >
 >[프로젝트 상세 설명](https://github.com/Woonggss/Hangeul_Font_Map_for_portfolio)
