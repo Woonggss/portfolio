@@ -37,7 +37,7 @@
 >  
 >기술 스택: Javascript, Python
 >
->* Front-end : JQuery, BootStrap
+>* Front-end : JQuery, Bootstrap
 >* Back-end : django, pandas
 >
 >
