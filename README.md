@@ -50,7 +50,7 @@
 ### 1. Quant
 >데이터 분석을 기반으로 한 투자 의사결정 실습
 >
->기술적 분석 세션 자료, 투자 전략 백테스팅, 퀀트 전략(1월 효과)에 근거한 stockpicking
+>기술적 분석 세션 자료, 투자 전략 백테스팅 및 stockpicking, 엑셀과 VBA를 활용한 투자 이론 실습
 >
 >[활동 상세 설명](https://github.com/Woonggss/Quant)
 
