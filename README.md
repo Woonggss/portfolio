@@ -35,7 +35,7 @@
 >  
 >기술 스택: Python, GCP
 >* 데이터 수집 : beautifulsoup, selenium, fake_useragent, pyautogui
->* 데이터 전처리 : cv2, PIL, matplotlib, keras
+>* 데이터 전처리(이미지 처리) : cv2, PIL, matplotlib, keras
 >* 모델 구축 : keras
 >* 휠 유사도 판별 : sklearn(scikit-learn), skimage(scikit-image) 
 >* GCP(Google Cloud Platform) 활용하여 딥러닝 모델 구동  
