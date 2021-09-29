@@ -14,26 +14,40 @@
 </br>
 
 ## :pushpin: Projects
-### 1. 자동차 휠 디자인 유사도 검증 모델 구축
+
+### 1. 따릉이 데이터 분석 및 전략 제안
+>회귀분석과 clustering 기법을 사용하여, 서울시 공공 자전거 따릉이 서비스의 지속적인 성장 방안 제시(팀 프로젝트)
+>
+>프로젝트 기간: 2019.11.1 ~ 2019.12.6
+>  
+>기술 스택 : R
+>  
+>  
+>[프로젝트 상세 설명](https://github.com/Woonggss/2019-data-project)
+
+---
+
+
+### 2. 자동차 휠 디자인 유사도 검증 모델 구축
 >전이학습(Transfer Learning)을 활용한 이미지 처리 딥러닝 모델 구축(팀 프로젝트)
 >
->개발 기간: 2020.5.1 ~ 2020.7.6
+>프로젝트 기간: 2020.5.1 ~ 2020.7.6
 >  
->기술 스택: Python
+>기술 스택: Python, GCP
 >* 데이터 수집 : beautifulsoup, selenium, fake_useragent, pyautogui
 >* 데이터 전처리 : cv2, PIL, matplotlib, keras
 >* 모델 구축 : keras
 >* 휠 유사도 판별 : sklearn(scikit-learn), skimage(scikit-image) 
->  
+>* GCP(Google Cloud Platform) 활용하여 딥러닝 모델 구동  
 >  
 >[프로젝트 상세 설명](https://github.com/Woonggss/2020-deep-learning-project)
 
 ---
 
-### 2. 한글 폰트 지도
+### 3. 한글 폰트 지도
 >애자일한 웹 서비스 프로토타입 구현(팀 프로젝트) 
 >
->개발 기간: 2021.8.14 ~ 2021.8.18  
+>프로젝트 기간: 2021.8.14 ~ 2021.8.18  
 >  
 >기술 스택: Javascript, Python
 >
