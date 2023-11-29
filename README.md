@@ -53,6 +53,7 @@
 >기존 AWS에 구축되어 있던 파이프라인을 GCP로 이관함으로써 업무 환경 통합
 >
 >프로젝트 기간 : 2022.07 ~ 2022.08 (5주), 사내 프로젝트
+>
 >기술 스택: Python, Google Cloud Platform(Cloud Function, Cloud Storage, Storage Transfer, BigQuery 등)
 
 ### 2. 사업개발팀 데이터 풀링 요청 대응 시스템 구축
@@ -63,6 +64,7 @@
 >Python 로컬 환경의 코드와 Cloud 환경의 테이블을 연동하여 보다 편리하게 데이터를 추출할 수 있도록 셋업
 >
 >프로젝트 기간 : 2022.04 ~ 2022.05 (5주), 사내 프로젝트
+>
 >기술 스택: Python, Google Cloud Platform(Cloud Storage, BigQuery 등)
 
 </br>
