@@ -2,7 +2,7 @@
 
 
 ## :pushpin: Intro
-사람들의 삶을 더욱 편리하게 만들고 싶은 개발자 지망생입니다. 이전에는 데이터 분야를 전반적으로 학습하고, 관련 업무를 하며 다양한 프로젝트를 수행하였습니다. 문제 해결을 위해 자기주도적으로 학습합니다. 협업을 하면서, 어떻게 하면 팀 전체에게 긍정적인 영향을 줄 수 있을 지 고민합니다. 기술 역량을 쌓기 위해 꾸준히 학습하고 있습니다. 주 개발 언어로 Java를 사용하며, 더불어 Python도 사용합니다.
+사람들의 삶을 더욱 편리하게 만들고 싶은 개발자 지망생입니다. 이전에는 데이터 분야를 전반적으로 학습하고, 관련 업무를 하며 다양한 프로젝트를 수행하였습니다. 문제 해결을 위해 자기주도적으로 학습합니다. 협업을 하면서, 어떻게 하면 팀 전체에게 긍정적인 영향을 줄 수 있을 지 고민합니다. 기술 역량을 쌓기 위해 꾸준히 학습하고 있습니다. 주 개발 언어로 Java를 사용하며, Python 또한 사용합니다. 클라우드 환경에서 일해본 경험이 있습니다.
 </br>
 
 ## :pushpin: Contact
@@ -17,7 +17,7 @@
 ### 1. 건강을 지향하는 사람들의 커뮤니티, Shelter WellBeing
 >SSAFY 1학기 관통 프로젝트 <운동 영상 리뷰 게시판>에 기반한 커뮤니티 페이지
 >
->프로젝트 기간 : 2023.10 ~ 2023.11(5주)
+>프로젝트 기간 : 2023.10 ~ 2023.11(6주)
 >  
 >기술 스택
 >
@@ -40,7 +40,7 @@
 >  
 >* Front-end : Typescript, React.js
 >* Back-end : Python, Fast API, Typescript, Next.js
->* Cloud : Google Cloud Platform 
+>* Cloud : Google Cloud Platform(Compute Engine, Cloud Run 등)
 
 </br>
 
@@ -53,7 +53,7 @@
 >기존 AWS에 구축되어 있던 파이프라인을 GCP로 이관함으로써 업무 환경 통합
 >
 >프로젝트 기간 : 2022.07 ~ 2022.08 (5주), 사내 프로젝트
->  
+>기술 스택: Python, Google Cloud Platform(Cloud Function, Cloud Storage, Storage Transfer, BigQuery 등)
 
 ### 2. 사업개발팀 데이터 풀링 요청 대응 시스템 구축
 >사업개발팀의 의사 결정을 지원하기 위해, 필요한 데이터를 추출하는 시스템 구축
@@ -63,7 +63,7 @@
 >Python 로컬 환경의 코드와 Cloud 환경의 테이블을 연동하여 보다 편리하게 데이터를 추출할 수 있도록 셋업
 >
 >프로젝트 기간 : 2022.04 ~ 2022.05 (5주), 사내 프로젝트
->
+>기술 스택: Python, Google Cloud Platform(Cloud Storage, BigQuery 등)
 
 </br>
 
@@ -78,7 +78,7 @@
 >
 >프로젝트 기간 : 2022.02 ~ 2022.04 (9주), 사내 프로젝트
 >  
->기술 스택: Python, Google Cloud Platform
+>기술 스택: Python, Google Cloud Platform(Cloud Storage, BigQuery 등)
 
 ---
 
