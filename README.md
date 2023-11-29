@@ -2,60 +2,105 @@
 
 
 ## :pushpin: Intro
-성취 지향적이며, 새로운 분야에 도전하는 것을 좋아합니다. 문제 해결을 위해 자기주도적으로 학습합니다. 협업을 하면서, 어떻게 하면 팀 전체에게 긍정적인 영향을 줄 수 있을 지 고민합니다. 웹 백엔드 프로그래밍과 데이터를 활용한 의사결정 전반에 관심이 많습니다. 기술 역량을 쌓기 위해 꾸준히 학습하고 있습니다. 개발 언어는 Python을 주로 활용합니다. 
+사람들의 삶을 더욱 편리하게 만들고 싶은 개발자 지망생입니다. 이전에는 데이터 분야를 전반적으로 학습하고, 관련 업무를 하며 다양한 프로젝트를 수행하였습니다. 문제 해결을 위해 자기주도적으로 학습합니다. 협업을 하면서, 어떻게 하면 팀 전체에게 긍정적인 영향을 줄 수 있을 지 고민합니다. 기술 역량을 쌓기 위해 꾸준히 학습하고 있습니다. 주 개발 언어로 Java를 사용하며, Python도 사용 가능합니다.
 
 </br>
 
 ## :pushpin: Contact
 - 이메일: ert4263@gmail.com
-- 블로그: https://velog.io/@woongss
+- 블로그: https://seandailytech.tistory.com/
 - 깃헙: https://github.com/Woonggss
 
 </br>
 
-## :pushpin: Projects
+## :pushpin: Projects(Development)
 
-### 1. 따릉이 데이터 분석 및 전략 제안
+### 1. 건강을 지향하는 사람들의 커뮤니티, Shelter WellBeing
+>SSAFY 1학기 관통 프로젝트 <운동 영상 리뷰 게시판>에 기반한 커뮤니티 페이지
+>
+>프로젝트 기간 : 2023.10 ~ 2023.11(5주)
+>  
+>기술 스택
+>
+>* Front-end : Javascript, Vue.js
+>* Back-end : Java, Spring Boot, Spring Data JPA, MyBatis, MySQL, Spring Security
+>  
+>[프로젝트 상세 설명](https://www.notion.so/57e2bd2f008d46ee8f56aac145389285)
+---
+
+### 2. 사내 크리에이터 검색 웹 서비스, CO Search Tool
+>사내 업무 지원을 위해 크리에이터 검색을 쉽게 할 수 있도록 돕는 웹 서비스
+>
+>프로젝트 기간 : 2022.08 ~ 2022.10 (8주), 사내 프로젝트
+>  
+>기술 스택
+>  
+>* Front-end : Typescript, React.js
+>* Back-end : Python, Typescript, Fast API, Next.js
+>* Cloud : Google Cloud Platform 
+
+</br>
+
+
+## :pushpin: Projects(Data Engineering)
+
+### 1. 데이터 ETL 파이프라인 구축
+>Google Cloud Platform 상에서 매일 유튜브 데이터를 추출, 변형, 적재(Extract, Transform, Load)하는 파이프라인 구축
+>
+>프로젝트 기간 : 2022.07 ~ 2022.08 (5주)
+>  
+>기존 AWS에 구축되어 있던 파이프라인을 GCP로 이관
+
+### 2. 사업개발팀 데이터 풀링 요청 대응 시스템 구축
+>사업개발팀의 의사 결정을 지원하기 위해, 필요한 데이터를 추출하는 시스템 구축
+>
+>프로젝트 기간 : 2022.04 ~ 2022.05 (5주)
+>
+>Python 및 SQL을 활용하여 데이터 풀링 요청에 대응하는 코드를 작성
+>Python 로컬 환경의 코드와 Cloud 환경의 테이블을 연동하여 보다 편리하게 데이터를 추출할 수 있도록 셋업
+
+</br>
+
+## :pushpin: Projects(Data Science & Analytics)
+
+### 1. 데이터 분석 자동화 리포트 제작
+>Google Workspace와 Google Cloud Platform을 활용하여, 유튜브 크리에이터 데이터 분석 자동화 리포트 제작
+>
+>프로젝트 기간 : 2022.02 ~ 2022.04 (9주)
+>
+>크리에이터의 현황을 잘 나타낼 수 있는 지표를 고안
+>기존 리포트 대비 Manual Work를 줄임으로써 업무 효율 개선  
+>기술 스택: Python, Google Cloud Platform
+
+---
+
+### 2. 자동차 휠 디자인 유사도 검증 모델 구축
+>전이학습(Transfer Learning)을 활용한 이미지 처리 딥러닝 모델 구축(팀 프로젝트)
+>
+>프로젝트 기간: 2020.5 ~ 2020.7(9주)
+>  
+>기술 스택: Python, Google Cloud Platform
+>* 데이터 수집 : beautifulsoup, selenium, fake_useragent, pyautogui
+>* 데이터 전처리(이미지 처리) : cv2, PIL, matplotlib, keras
+>* 모델 구축 : keras
+>* 휠 유사도 판별 : sklearn(scikit-learn), skimage(scikit-image) 
+>* GCP(Google Cloud Platform)를 활용하여 딥러닝 모델 구동  
+>  
+>[프로젝트 상세 설명](https://github.com/Woonggss/2020-deep-learning-project)
+
+---
+
+### 3. 따릉이 데이터 분석 및 전략 제안
 >회귀분석 및 clustering 기법을 활용하여, 서울시 공공 자전거 따릉이 서비스의 지속적인 성장 방안 제시(팀 프로젝트)
 >
->프로젝트 기간 : 2019.11.1 ~ 2019.12.6
+>프로젝트 기간 : 2019.11 ~ 2019.12(5주)
 >  
 >R을 활용한 데이터 분석 프로젝트
 >  
 >  
 >[프로젝트 상세 설명](https://github.com/Woonggss/2019-data-project)
 
----
-
-
-### 2. 자동차 휠 디자인 유사도 검증 모델 구축
->전이학습(Transfer Learning)을 활용한 이미지 처리 딥러닝 모델 구축(팀 프로젝트)
->
->프로젝트 기간: 2020.5.1 ~ 2020.7.6
->  
->기술 스택: Python, GCP
->* 데이터 수집 : beautifulsoup, selenium, fake_useragent, pyautogui
->* 데이터 전처리(이미지 처리) : cv2, PIL, matplotlib, keras
->* 모델 구축 : keras
->* 휠 유사도 판별 : sklearn(scikit-learn), skimage(scikit-image) 
->* GCP(Google Cloud Platform) 활용하여 딥러닝 모델 구동  
->  
->[프로젝트 상세 설명](https://github.com/Woonggss/2020-deep-learning-project)
-
----
-
-### 3. 한글 폰트 지도
->애자일한 웹 서비스 프로토타입 구현(팀 프로젝트) 
->
->프로젝트 기간: 2021.8.14 ~ 2021.8.18  
->  
->기술 스택: Javascript, Python
->
->* Front-end : JQuery, Bootstrap
->* Back-end : django, pandas
->
->
->[프로젝트 상세 설명](https://github.com/Woonggss/Hangeul_Font_Map_for_portfolio)
+<br>
 
 ---
 
@@ -67,8 +112,3 @@
 >기술적 분석 세션 자료, 투자 전략 백테스팅 및 stockpicking, 엑셀과 VBA를 활용한 투자 이론 실습
 >
 >[활동 상세 설명](https://github.com/Woonggss/Quant)
-
-## :pushpin: TIL(Today I Learned) Repository
-> 학습한 내용을 정리하는 저장소입니다.
-> 
-> [TIL 저장소](https://github.com/Woonggss/TIL)
