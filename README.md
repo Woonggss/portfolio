@@ -24,7 +24,7 @@
 >* Front-end : Javascript, Vue.js
 >* Back-end : Java, Spring Boot, Spring Data JPA, MyBatis, MySQL, Spring Security
 >  
->[프로젝트 상세 설명](https://www.notion.so/57e2bd2f008d46ee8f56aac145389285)
+>[프로젝트 상세 설명](https://nonchalant-peony-9fc.notion.site/Shelter-WellBeing-ac507c6f3ef645f68d97799ba6427a5e)
 ---
 
 ### 2. 사내 크리에이터 검색 웹 서비스, CO Search Tool
