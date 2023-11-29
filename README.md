@@ -63,7 +63,7 @@
 
 ## :pushpin: Projects(Data Science & Analytics)
 
-### 1. 데이터 분석 자동화 리포트 제작
+### 1. 데이터 분석 자동화 리포트 제작
 >Google Workspace와 Google Cloud Platform을 활용하여, 유튜브 크리에이터 데이터 분석 자동화 리포트 제작
 >
 >프로젝트 기간 : 2022.02 ~ 2022.04 (9주), 사내 프로젝트
