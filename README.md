@@ -56,6 +56,8 @@
 >
 >기술 스택: Python, Google Cloud Platform(Cloud Function, Cloud Storage, Storage Transfer, BigQuery 등)
 
+---
+
 ### 2. 사업개발팀 데이터 풀링 요청 대응 시스템 구축
 >사업개발팀의 의사 결정을 지원하기 위해, 필요한 데이터를 추출하는 시스템 구축
 >
@@ -112,7 +114,6 @@
 
 <br>
 
----
 
 ## :pushpin: Additional Activities
 
