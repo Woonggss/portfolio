@@ -16,21 +16,22 @@
 
 ### 1. 건강을 지향하는 사람들의 커뮤니티, Shelter WellBeing
 >Single Page Application 개발 프로젝트
-
-* Spring Boot와 MyBatis를 활용하여 RESTful API 서버 개발
-
-* Vue.js의 라우트 쿼리를 활용하여 페이지 전환 시 필요한 데이터만 서버에 요청 및 화면에 출력
-
-* Spring Security를 활용하여 인증/인가 관리
-  * Security Filter Chain에서 서버-클라이언트 통신 시 CORS 이슈 해결
-  * Bean Factory에서 관리되는 로그인 정보를 주입받아 JWT 토큰 생성
-* 프로젝트 기간 : 2023.10 ~ 2023.11(6주)
+>
+>Spring Boot와 MyBatis를 활용하여 RESTful API 서버 개발
+>
+>Vue.js의 라우트 쿼리를 활용하여 페이지 전환 시 필요한 데이터만 서버에 요청 및 화면에 출력
+>
+>Spring Security를 활용하여 인증/인가 관리
+>* Security Filter Chain에서 서버-클라이언트 통신 시 CORS 이슈 해결
+>* Bean Factory에서 관리되는 로그인 정보를 주입받아 JWT 토큰 생성
+>
+>프로젝트 기간 : 2023.10 ~ 2023.11(6주)
   
-* 사용 기술
-  * Front-end : Javascript, Vue.js
-  * Back-end : Java, Spring Boot, MyBatis, MySQL, Spring Security
+>사용 기술
+>* Front-end : Javascript, Vue.js
+>* Back-end : Java, Spring Boot, MyBatis, MySQL, Spring Security
   
-[프로젝트 상세 설명](https://nonchalant-peony-9fc.notion.site/Shelter-WellBeing-ac507c6f3ef645f68d97799ba6427a5e)
+>[프로젝트 상세 설명](https://nonchalant-peony-9fc.notion.site/Shelter-WellBeing-ac507c6f3ef645f68d97799ba6427a5e)
 ---
 
 ### 2. 사내 크리에이터 검색 웹 서비스, CO Search Tool
@@ -97,14 +98,14 @@
 ### 2. 자동차 휠 디자인 유사도 검증 모델 구축
 >전이학습(Transfer Learning)을 활용한 이미지 처리 딥러닝 모델 구축(팀 프로젝트)
 >
->* 프로젝트 기간: 2020.5 ~ 2020.7(9주)
+>프로젝트 기간: 2020.5 ~ 2020.7(9주)
 >  
->* 사용 기술 : Python, Google Cloud Platform
->  * 데이터 수집 : beautifulsoup, selenium, fake_useragent, pyautogui
->  * 데이터 전처리(이미지 처리) : cv2, PIL, matplotlib, keras
->  * 모델 구축 : keras
->  * 휠 유사도 판별 : sklearn(scikit-learn), skimage(scikit-image) 
->  * GCP(Google Cloud Platform)를 활용하여 딥러닝 모델 구동  
+>사용 기술 : Python, Google Cloud Platform
+>* 데이터 수집 : beautifulsoup, selenium, fake_useragent, pyautogui
+>* 데이터 전처리(이미지 처리) : cv2, PIL, matplotlib, keras
+>* 모델 구축 : keras
+>* 휠 유사도 판별 : sklearn(scikit-learn), skimage(scikit-image) 
+>* GCP(Google Cloud Platform)를 활용하여 딥러닝 모델 구동  
 >  
 >[프로젝트 상세 설명](https://github.com/Woonggss/2020-deep-learning-project)
 
@@ -113,9 +114,9 @@
 ### 3. 따릉이 데이터 분석 및 전략 제안
 >회귀분석 및 clustering 기법을 활용하여, 서울시 공공 자전거 따릉이 서비스의 지속적인 성장 방안 제시(팀 프로젝트)
 >
->* 프로젝트 기간 : 2019.11 ~ 2019.12(5주)
+>프로젝트 기간 : 2019.11 ~ 2019.12(5주)
 >  
->* R을 활용한 데이터 분석 프로젝트
+>R을 활용한 데이터 분석 프로젝트
 >  
 >  
 >[프로젝트 상세 설명](https://github.com/Woonggss/2019-data-project)
@@ -126,8 +127,8 @@
 ## :pushpin: Additional Activities
 
 ### 1. Quant
->* 데이터 분석을 기반으로 한 투자 의사결정 실습
+>데이터 분석을 기반으로 한 투자 의사결정 실습
 >
->* 기술적 분석 세션 자료, 투자 전략 백테스팅 및 stockpicking, 엑셀과 VBA를 활용한 투자 이론 실습
+>기술적 분석 세션 자료, 투자 전략 백테스팅 및 stockpicking, 엑셀과 VBA를 활용한 투자 이론 실습
 >
 >[활동 상세 설명](https://github.com/Woonggss/Quant)
