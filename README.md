@@ -1,8 +1,8 @@
-# 포트폴리오 페이지
+# 박세웅 포트폴리오
 
 
 ## :pushpin: Intro
-사람들의 삶을 더욱 편리하게 만들고 싶은 개발자 지망생입니다. 이전에는 데이터 분야를 전반적으로 학습하고, 관련 업무를 하며 다양한 프로젝트를 수행하였습니다. 문제 해결을 위해 자기주도적으로 학습합니다. 협업을 하면서, 어떻게 하면 팀 전체에게 긍정적인 영향을 줄 수 있을 지 고민합니다. 기술 역량을 쌓기 위해 꾸준히 학습하고 있습니다. 주 개발 언어로 Java를 사용하며, Python 또한 사용합니다. 클라우드 환경에서 일해본 경험이 있습니다.
+사람들의 삶을 더욱 편리하게 만들고 싶은 즐겁게 개발하고 싶습니다. 이전에는 데이터 분야를 전반적으로 학습하고, 관련 업무를 하며 다양한 프로젝트를 수행하였습니다. 협업을 하면서, 어떻게 하면 팀 전체에게 긍정적인 영향을 줄 수 있을 지 고민합니다. 주 개발 언어로 Java를 사용하며, Python 또한 사용합니다. 클라우드 환경에서 일해본 경험이 있습니다.
 </br>
 
 ## :pushpin: Contact
@@ -15,14 +15,14 @@
 ## :pushpin: Projects(Development)
 
 ### 1. 건강을 지향하는 사람들의 커뮤니티, Shelter WellBeing
->SSAFY 1학기 관통 프로젝트 <운동 영상 리뷰 게시판>에 기반한 커뮤니티 페이지
+>Single Page Application 개발 프로젝트
 >
 >프로젝트 기간 : 2023.10 ~ 2023.11(6주)
 >  
->기술 스택
+>기술 환경
 >
 >* Front-end : Javascript, Vue.js
->* Back-end : Java, Spring Boot, Spring Data JPA, MyBatis, MySQL, Spring Security
+>* Back-end : Java, Spring Boot, MyBatis, MySQL, Spring Security
 >  
 >[프로젝트 상세 설명](https://nonchalant-peony-9fc.notion.site/Shelter-WellBeing-ac507c6f3ef645f68d97799ba6427a5e)
 ---
@@ -32,33 +32,33 @@
 >
 >개발자, 기획자, 디자이너, PM과의 협업 및 커뮤니케이션
 >
->DB 모델링, 데이터 수집을 위한 크롤러 작성, 서버 API 엔드포인트 구현에 기여
+>DB 모델링, 데이터 수집을 위한 크롤러 작성 및 서버 API 엔드포인트 구현, 글로벌 환경에서의 협업
 >
 >프로젝트 기간 : 2022.08 ~ 2022.10 (10주), 사내 프로젝트
 >
->기술 스택
+>기술 환경
 >  
 >* Front-end : Typescript, React.js
 >* Back-end : Python, Fast API, Typescript, Next.js
->* Cloud : Google Cloud Platform(Compute Engine, Cloud Run 등)
+>* Cloud : Google Cloud Platform
 
 </br>
 
 
 ## :pushpin: Projects(Data Engineering)
 
-### 1. 데이터 ETL 파이프라인 구축
+### 1. 유튜브 트렌딩 데이터 파이프라인 구축
 >Google Cloud Platform 상에서 매일 유튜브 데이터를 추출, 변형, 적재(Extract, Transform, Load)하는 파이프라인 구축
->
->기존 AWS에 구축되어 있던 파이프라인을 GCP로 이관함으로써 업무 환경 통합
 >
 >프로젝트 기간 : 2022.07 ~ 2022.08 (5주), 사내 프로젝트
 >
->기술 스택: Python, Google Cloud Platform(Cloud Function, Cloud Storage, Storage Transfer, BigQuery 등)
+>기술 환경
+>
+>Python, Google Cloud Platform(Cloud Function, Cloud Storage, Storage Transfer, BigQuery)
 
 ---
 
-### 2. 사업개발팀 데이터 풀링 요청 대응 시스템 구축
+### 2. 사업개발팀 데이터 요청 대응 시스템 구축
 >사업개발팀의 의사 결정을 지원하기 위해, 필요한 데이터를 추출하는 시스템 구축
 >
 >Python 및 SQL을 활용하여 데이터 풀링 요청에 대응하는 코드를 작성
@@ -67,7 +67,9 @@
 >
 >프로젝트 기간 : 2022.04 ~ 2022.05 (5주), 사내 프로젝트
 >
->기술 스택: Python, Google Cloud Platform(Cloud Storage, BigQuery 등)
+>기술 환경
+>
+>Python, Google Cloud Platform(Cloud Storage, BigQuery)
 
 </br>
 
@@ -76,13 +78,19 @@
 ### 1. 데이터 분석 자동화 리포트 제작
 >Google Workspace와 Google Cloud Platform을 활용하여, 유튜브 크리에이터 데이터 분석 자동화 리포트 제작
 >
+>필요한 정보를 입력하고 실행하면 자동으로 만들어지는 데이터 분석 레포트 제작
+>
 >크리에이터의 현황을 잘 나타낼 수 있는 지표 고안
 >
 >기존 리포트 대비 Manual Work를 줄임으로써 업무 효율 개선
 >
+>기존 리포트 코드 리팩토링하여 유지보수성 및 가독성 확보
+>
 >프로젝트 기간 : 2022.02 ~ 2022.04 (9주), 사내 프로젝트
 >  
->기술 스택: Python, Google Cloud Platform(Cloud Storage, BigQuery 등)
+>기술 환경
+>
+>Python, Google Cloud Platform(Cloud Storage, BigQuery 등)
 
 ---
 
@@ -91,7 +99,7 @@
 >
 >프로젝트 기간: 2020.5 ~ 2020.7(9주)
 >  
->기술 스택: Python, Google Cloud Platform
+>기술 환경 : Python, Google Cloud Platform
 >* 데이터 수집 : beautifulsoup, selenium, fake_useragent, pyautogui
 >* 데이터 전처리(이미지 처리) : cv2, PIL, matplotlib, keras
 >* 모델 구축 : keras
