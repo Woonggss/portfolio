@@ -26,13 +26,13 @@
 >* Bean Factory에서 관리되는 로그인 정보를 주입받아 JWT 토큰 생성
 >
 >프로젝트 기간 : 2023.10 ~ 2023.11(6주)
-  
+>  
 >사용 기술
 >* Front-end : Javascript, Vue.js
 >* Back-end : Java, Spring Boot, MyBatis, MySQL, Spring Security
-  
+>  
 >[프로젝트 상세 설명](https://nonchalant-peony-9fc.notion.site/Shelter-WellBeing-ac507c6f3ef645f68d97799ba6427a5e)
----
+
 
 ### 2. 사내 크리에이터 검색 웹 서비스, CO Search Tool
 >사내 업무 지원을 위해 크리에이터 검색을 쉽게 할 수 있도록 돕는 웹 서비스
