@@ -1,8 +1,8 @@
 # 박세웅 포트폴리오
 
-
 ## :pushpin: Intro
 사람들의 삶을 더욱 편리하게 만들며 즐겁게 개발하고 싶습니다. 이전에는 데이터 분야를 전반적으로 학습하고, 관련 업무를 하며 다양한 프로젝트를 수행하였습니다. 협업을 하면서, 어떻게 하면 팀 전체에게 긍정적인 영향을 줄 수 있을 지 고민합니다. 주 개발 언어로 Java를 사용하며, Python 또한 사용합니다. 클라우드 환경에서 일해본 경험이 있습니다.
+
 </br>
 
 ## :pushpin: Contact
@@ -19,17 +19,15 @@
 >
 >Spring Boot와 MyBatis를 활용하여 RESTful API 서버 개발
 >
->Vue.js의 라우트 쿼리를 활용하여 페이지 전환 시 필요한 데이터만 서버에 요청 및 화면에 출력
+>Vue.js를 활용하여 SPA 화면 개발
 >
->Spring Security를 활용하여 인증/인가 관리
->* Security Filter Chain에서 서버-클라이언트 통신 시 CORS 이슈 해결
->* Bean Factory에서 관리되는 로그인 정보를 주입받아 JWT 토큰 생성
+>Spring Security를 활용하여 인증/인가 관리 및 소셜 로그인 구현
 >
 >프로젝트 기간 : 2023.10 ~ 2023.11(6주)
 >  
 >사용 기술
->* Front-end : Javascript, Vue.js
->* Back-end : Java, Spring Boot, MyBatis, MySQL, Spring Security
+>- Front-end : Javascript, Vue.js
+>- Back-end : Java, Spring Boot, MyBatis, MySQL, Spring Security
 >  
 >[프로젝트 상세 설명](https://nonchalant-peony-9fc.notion.site/Shelter-WellBeing-ac507c6f3ef645f68d97799ba6427a5e)
 
@@ -53,25 +51,25 @@
 ### 1. 유튜브 트렌딩 데이터 파이프라인 구축
 >Google Cloud Platform 상에서 매일 유튜브 데이터를 추출, 변형, 적재(Extract, Transform, Load)하는 파이프라인 구축
 >
->* Python 및 GCP Cloud Function을 활용해 데이터 추출 및 변형
+>Python 및 GCP Cloud Function을 활용해 데이터 추출 및 변형
 >
->* GCP BigQuery에 데이터 적재
+>GCP BigQuery에 데이터 적재
 >
->* 프로젝트 기간 : 2022.07 ~ 2022.08 (5주), 사내 프로젝트
+>프로젝트 기간 : 2022.07 ~ 2022.08 (5주), 사내 프로젝트
 >
->* 사용 기술 : Python, Google Cloud Platform(Cloud Function, Cloud Storage, Storage Transfer, BigQuery)
+>사용 기술 : Python, Google Cloud Platform(Cloud Function, Cloud Storage, Storage Transfer, BigQuery)
 
 
 ### 2. 사업개발팀 데이터 요청 대응 시스템 구축
 >사업개발팀의 의사 결정에 필요한 데이터를 추출하는 업무 지원 시스템 구축
 >
->* Python 및 SQL을 활용하여 데이터 요청에 대응하는 코드를 작성
+>Python 및 SQL을 활용하여 데이터 요청에 대응하는 코드를 작성
 >
->* Python 로컬 환경의 코드와 Cloud 환경의 테이블을 연동하여 보다 편리하게 데이터를 추출할 수 있도록 셋업
+>Python 로컬 환경의 코드와 Cloud 환경의 테이블을 연동하여 보다 편리하게 데이터를 추출할 수 있도록 셋업
 >
->* 프로젝트 기간 : 2022.04 ~ 2022.05 (5주), 사내 프로젝트
+>프로젝트 기간 : 2022.04 ~ 2022.05 (5주), 사내 프로젝트
 >
->* 사용 기술 : Python, Google Cloud Platform(Cloud Storage, BigQuery)
+>사용 기술 : Python, Google Cloud Platform(Cloud Storage, BigQuery)
 
 </br>
 
@@ -99,11 +97,11 @@
 >프로젝트 기간: 2020.5 ~ 2020.7(9주)
 >  
 >사용 기술 : Python, Google Cloud Platform
->* 데이터 수집 : beautifulsoup, selenium, fake_useragent, pyautogui
->* 데이터 전처리(이미지 처리) : cv2, PIL, matplotlib, keras
->* 모델 구축 : keras
->* 휠 유사도 판별 : sklearn(scikit-learn), skimage(scikit-image) 
->* GCP(Google Cloud Platform)를 활용하여 딥러닝 모델 구동  
+>- 데이터 수집 : beautifulsoup, selenium, fake_useragent, pyautogui
+>- 데이터 전처리(이미지 처리) : cv2, PIL, matplotlib, keras
+>- 모델 구축 : keras
+>- 휠 유사도 판별 : sklearn(scikit-learn), skimage(scikit-image) 
+>- GCP(Google Cloud Platform)를 활용하여 딥러닝 모델 구동  
 >  
 >[프로젝트 상세 설명](https://github.com/Woonggss/2020-deep-learning-project)
 
