@@ -16,21 +16,21 @@
 
 ### 1. 건강을 지향하는 사람들의 커뮤니티, Shelter WellBeing
 >Single Page Application 개발 프로젝트
->
->* Spring Boot와 MyBatis를 활용하여 RESTful API 서버 개발
->
->* Vue.js의 라우트 쿼리를 활용하여 페이지 전환 시 필요한 데이터만 서버에 요청 및 화면에 출력
->
->* Spring Security를 활용하여 인증/인가 관리
->  * Security Filter Chain에서 서버-클라이언트 통신 시 CORS 이슈 해결
->  * Bean Factory에서 관리되는 로그인 정보를 주입받아 JWT 토큰 생성
->* 프로젝트 기간 : 2023.10 ~ 2023.11(6주)
->  
->* 사용 기술
->  * Front-end : Javascript, Vue.js
->  * Back-end : Java, Spring Boot, MyBatis, MySQL, Spring Security
->  
->[프로젝트 상세 설명](https://nonchalant-peony-9fc.notion.site/Shelter-WellBeing-ac507c6f3ef645f68d97799ba6427a5e)
+
+* Spring Boot와 MyBatis를 활용하여 RESTful API 서버 개발
+
+* Vue.js의 라우트 쿼리를 활용하여 페이지 전환 시 필요한 데이터만 서버에 요청 및 화면에 출력
+
+* Spring Security를 활용하여 인증/인가 관리
+  * Security Filter Chain에서 서버-클라이언트 통신 시 CORS 이슈 해결
+  * Bean Factory에서 관리되는 로그인 정보를 주입받아 JWT 토큰 생성
+* 프로젝트 기간 : 2023.10 ~ 2023.11(6주)
+  
+* 사용 기술
+  * Front-end : Javascript, Vue.js
+  * Back-end : Java, Spring Boot, MyBatis, MySQL, Spring Security
+  
+[프로젝트 상세 설명](https://nonchalant-peony-9fc.notion.site/Shelter-WellBeing-ac507c6f3ef645f68d97799ba6427a5e)
 ---
 
 ### 2. 사내 크리에이터 검색 웹 서비스, CO Search Tool
