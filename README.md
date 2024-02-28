@@ -32,8 +32,7 @@
 >사용 기술
 >- Front-end : Javascript, React.js, Tailwind CSS, daisyUI, ffmpeg
 >- Back-end : Java, Spring Boot, Spring Data JPA
->- Infra : docker, kafka 
->
+>- Infra : docker
 >
 >  
 
