@@ -14,7 +14,33 @@
 
 ## :pushpin: Projects(Development)
 
-### 1. 건강을 지향하는 사람들의 커뮤니티, Shelter WellBeing
+### 1. 누구나 음악을 만들 수 있는 소리 쌓기 플랫폼, BeatHerb
+>소리 녹음 및 편집 기능, 실시간 음악 스트리밍 서비스를 제공하는 웹 서비스 개발 프로젝트
+>
+>Spring Boot와 JPA를 활용한 API 개발
+>
+>React.js를 활용한 화면 개발
+>
+>파일 업로드 기능 구현
+>
+>Git과 JIRA를 활용한 협업 관리
+>
+>도커 컨테이너 환경에서의 개발
+>
+>프로젝트 기간 : 2024.01 ~ 2024.02 (6주)
+>
+>사용 기술
+>- Front-end : Javascript, React.js, Tailwind CSS, daisyUI, ffmpeg
+>- Back-end : Java, Spring Boot, Spring Data JPA
+>- Infra : docker, kafka 
+>
+>
+>사용 기술
+>- Front-end : Javascript, Vue.js
+>- Back-end : Java, Spring Boot, MyBatis, MySQL, Spring Security
+>  
+
+### 2. 건강을 지향하는 사람들의 커뮤니티, Shelter WellBeing
 >Single Page Application 개발 프로젝트
 >
 >Spring Boot와 MyBatis를 활용하여 RESTful API 서버 개발
@@ -32,7 +58,7 @@
 >[프로젝트 상세 설명](https://nonchalant-peony-9fc.notion.site/Shelter-WellBeing-ac507c6f3ef645f68d97799ba6427a5e)
 
 
-### 2. 사내 크리에이터 검색 웹 서비스, CO Search Tool
+### 3. 사내 크리에이터 검색 웹 서비스, CO Search Tool
 >사내 업무 지원을 위해 크리에이터 검색을 쉽게 할 수 있도록 돕는 웹 서비스
 >
 >글로벌 환경에서 개발자, 기획자, 디자이너, PM과의 협업 및 커뮤니케이션
