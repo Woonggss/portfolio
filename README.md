@@ -27,7 +27,7 @@
 >
 >도커 컨테이너 환경에서의 개발
 >
->프로젝트 기간 : 2024.01 ~ 2024.02 (6주)
+>프로젝트 기간 : 2024.01 ~ 2024.02(6주)
 >
 >사용 기술
 >- Front-end : Javascript, React.js, Tailwind CSS, daisyUI, ffmpeg
