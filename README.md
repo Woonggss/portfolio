@@ -35,9 +35,6 @@
 >- Infra : docker, kafka 
 >
 >
->사용 기술
->- Front-end : Javascript, Vue.js
->- Back-end : Java, Spring Boot, MyBatis, MySQL, Spring Security
 >  
 
 ### 2. 건강을 지향하는 사람들의 커뮤니티, Shelter WellBeing
