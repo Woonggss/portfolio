@@ -34,7 +34,7 @@
 >- Back-end : Java, Spring Boot, Spring Data JPA
 >- Infra : docker
 >
->  
+>[프로젝트 상세 설명](https://github.com/Woonggss/beatherb)
 
 ### 2. 건강을 지향하는 사람들의 커뮤니티, Shelter WellBeing
 >Single Page Application 개발 프로젝트
