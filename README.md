@@ -1,7 +1,7 @@
 # 박세웅 포트폴리오
 
 ## :pushpin: Intro
-사람들의 삶을 더욱 편리하게 만들며 즐겁게 개발하고 싶습니다. 이전에는 데이터 분야를 전반적으로 학습하고, 관련 업무를 하며 다양한 프로젝트를 수행하였습니다. 협업을 하면서, 어떻게 하면 팀 전체에게 긍정적인 영향을 줄 수 있을 지 고민합니다. 주 개발 언어로 Java를 사용하며, Python 또한 사용합니다. 클라우드 환경에서 일해본 경험이 있습니다.
+주도적으로 일하며 늘 더 나은 방법을 찾는 개발자입니다. 이전에는 데이터 관리 직무로 일하며 다양한 프로젝트를 수행하였고, 소프트웨어 엔지니어로 커리어를 확장한 뒤 현재는 SSAFY에서 교육을 이수하고 있습니다. 협업 시 적극적으로 의견을 내면서, 어떻게 하면 팀에게 긍정적인 영향을 줄 지 고민합니다. 기존에 하던 일의 프로세스와 코드를 개선하여 하루 이상 소요되던 기존 작업 시간을 5분으로 단축시킨 경험이 있습니다. 사람들의 문제를 해결하고, 나아가 사람들을 행복하게 만들며 즐겁게 개발하고 싶습니다.
 
 </br>
 
@@ -14,29 +14,48 @@
 
 ## :pushpin: Projects(Development)
 
-### 1. 누구나 음악을 만들 수 있는 소리 쌓기 플랫폼, BeatHerb
+### 1. 가상화폐 모의투자 플랫폼, Funco
+>실시간 시세에 기반한 거래 및 팔로우 투자(따라서 투자하기) 기능을 제공하는 웹 서비스 개발 프로젝트
+>
+>클라우드 환경(AWS EC2)에서의 서비스 배포
+>
+>Jenkins를 활용해 CI/CD 파이프라인 구축
+>
+>Nginx와 Docker를 활용해 리버스 프록시를 적용한 서버 아키텍처 구현
+>
+>Spring Boot와 JPA를 활용한 API 개발
+>
+>Git과 JIRA를 활용한 협업 관리
+>
+>프로젝트 기간 : 2024.02 ~ 2024.04(6주)
+>참여 인원 : 6명
+>
+>사용 기술
+>- Infra : AWS EC2, Jenkins, Docker, Nginx 
+>- Back-end : Java, Spring Boot, MariaDB, Spring Data JPA
+
+
+### 2. 누구나 음악을 만들 수 있는 소리 쌓기 플랫폼, BeatHerb
 >소리 녹음 및 편집 기능, 실시간 음악 스트리밍 서비스를 제공하는 웹 서비스 개발 프로젝트
 >
 >Spring Boot와 JPA를 활용한 API 개발
 >
 >React.js를 활용한 화면 개발
 >
->파일 업로드 기능 구현
+>JSON 형식으로 클라이언트-서버 간의 파일 업로드 기능 구현
 >
 >Git과 JIRA를 활용한 협업 관리
 >
->도커 컨테이너 환경에서의 개발
 >
 >프로젝트 기간 : 2024.01 ~ 2024.02(6주)
->
+>참여 인원 : 6명
 >사용 기술
 >- Front-end : Javascript, React.js, Tailwind CSS, daisyUI, ffmpeg
->- Back-end : Java, Spring Boot, Spring Data JPA
->- Infra : docker
+>- Back-end : Java, Spring Boot, MySQL, Spring Data JPA
 >
 >[프로젝트 상세 설명](https://github.com/Woonggss/beatherb)
 
-### 2. 건강을 지향하는 사람들의 커뮤니티, Shelter WellBeing
+### 3. 건강을 지향하는 사람들의 커뮤니티, Shelter WellBeing
 >Single Page Application 개발 프로젝트
 >
 >Spring Boot와 MyBatis를 활용하여 RESTful API 서버 개발
@@ -46,7 +65,7 @@
 >Spring Security를 활용하여 인증/인가 관리 및 소셜 로그인 구현
 >
 >프로젝트 기간 : 2023.10 ~ 2023.11(6주)
->  
+>참여 인원 : 2명  
 >사용 기술
 >- Front-end : Javascript, Vue.js
 >- Back-end : Java, Spring Boot, MyBatis, MySQL, Spring Security
@@ -54,18 +73,6 @@
 >[프로젝트 상세 설명](https://nonchalant-peony-9fc.notion.site/Shelter-WellBeing-ac507c6f3ef645f68d97799ba6427a5e)
 
 
-### 3. 사내 크리에이터 검색 웹 서비스, CO Search Tool
->사내 업무 지원을 위해 크리에이터 검색을 쉽게 할 수 있도록 돕는 웹 서비스
->
->글로벌 환경에서 개발자, 기획자, 디자이너, PM과의 협업 및 커뮤니케이션
->
->DB 모델링, 데이터 수집을 위한 크롤러 작성 및 서버 API 엔드포인트 구현
->
->프로젝트 기간 : 2022.08 ~ 2022.10 (10주), 사내 프로젝트
->
->사용 기술 : Python, FAST API, GCP BigQuery
-
-</br>
 
 
 ## :pushpin: Projects(Data Engineering)
@@ -102,20 +109,20 @@
 >
 >크리에이터의 현황을 잘 나타낼 수 있는 데이터 분석 지표 고안
 >
->기존 리포트 대비 Manual Work를 줄임으로써 업무 효율 개선
->
 >기존 리포트 코드를 리팩토링하여 유지보수성 및 가독성 확보
+>
+>하루 이상 소요되던 리포트 전달 시간을 5분으로 단축하여 업무 생산성 증대
 >
 >프로젝트 기간 : 2022.02 ~ 2022.04 (9주), 사내 프로젝트
 >  
->사용 기술 : Python, Google Cloud Platform(Cloud Storage, BigQuery 등)
+>사용 기술 : Python, GCP BigQuery, GCP Cloud Storage
 
 
 ### 2. 자동차 휠 디자인 유사도 검증 모델 구축
 >전이학습(Transfer Learning)을 활용한 이미지 처리 딥러닝 모델 구축(팀 프로젝트)
 >
 >프로젝트 기간: 2020.5 ~ 2020.7(9주)
->  
+>참여 인원 : 6명  
 >사용 기술 : Python, Google Cloud Platform
 >- 데이터 수집 : beautifulsoup, selenium, fake_useragent, pyautogui
 >- 데이터 전처리(이미지 처리) : cv2, PIL, matplotlib, keras
@@ -130,7 +137,7 @@
 >회귀분석 및 clustering 기법을 활용하여, 서울시 공공 자전거 따릉이 서비스의 지속적인 성장 방안 제시(팀 프로젝트)
 >
 >프로젝트 기간 : 2019.11 ~ 2019.12(5주)
->  
+>참여 인원 : 6명  
 >R을 활용한 데이터 분석 프로젝트
 >  
 >  
