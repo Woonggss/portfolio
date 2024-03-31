@@ -28,6 +28,7 @@
 >Git과 JIRA를 활용한 협업 관리
 >
 >프로젝트 기간 : 2024.02 ~ 2024.04(6주)
+>
 >참여 인원 : 6명
 >
 >사용 기술
@@ -48,7 +49,9 @@
 >
 >
 >프로젝트 기간 : 2024.01 ~ 2024.02(6주)
+>
 >참여 인원 : 6명
+>
 >사용 기술
 >- Front-end : Javascript, React.js, Tailwind CSS, daisyUI, ffmpeg
 >- Back-end : Java, Spring Boot, MySQL, Spring Data JPA
@@ -65,7 +68,9 @@
 >Spring Security를 활용하여 인증/인가 관리 및 소셜 로그인 구현
 >
 >프로젝트 기간 : 2023.10 ~ 2023.11(6주)
->참여 인원 : 2명  
+>
+>참여 인원 : 2명
+>
 >사용 기술
 >- Front-end : Javascript, Vue.js
 >- Back-end : Java, Spring Boot, MyBatis, MySQL, Spring Security
@@ -122,7 +127,9 @@
 >전이학습(Transfer Learning)을 활용한 이미지 처리 딥러닝 모델 구축(팀 프로젝트)
 >
 >프로젝트 기간: 2020.5 ~ 2020.7(9주)
->참여 인원 : 6명  
+>
+>참여 인원 : 6명
+>  
 >사용 기술 : Python, Google Cloud Platform
 >- 데이터 수집 : beautifulsoup, selenium, fake_useragent, pyautogui
 >- 데이터 전처리(이미지 처리) : cv2, PIL, matplotlib, keras
@@ -137,7 +144,9 @@
 >회귀분석 및 clustering 기법을 활용하여, 서울시 공공 자전거 따릉이 서비스의 지속적인 성장 방안 제시(팀 프로젝트)
 >
 >프로젝트 기간 : 2019.11 ~ 2019.12(5주)
->참여 인원 : 6명  
+>
+>참여 인원 : 6명
+>  
 >R을 활용한 데이터 분석 프로젝트
 >  
 >  
